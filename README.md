@@ -29,17 +29,20 @@ bash
 
 
 
-ifconfig
+"ifconfig"
+
 2.Launched Wireshark in the background to capture packets during the scan:
 bash
 
 
-wireshark 
+"wireshark" 
+
 3.Ran a TCP SYN scan on the local subnet:
 bash
 
 
-nmap -sS 10.0.2.0/24 -oN scan_results.txt
+"nmap -sS 10.0.2.0/24 -oN scan_results.txt"
+
 4.This scanned all IPs in the range 10.0.2.1 to 10.0.2.255.
 
 
