@@ -1,6 +1,6 @@
 🛡️ Cybersecurity Internship - Task 1: Port Scanning
 🎯 Objective
-To perform basic network reconnaissance using Nmap in a controlled environment (Kali Linux VM) to identify open ports on devices within the local network segment.
+To perform basic network reconnaissance using Nmap in a controlled environment (Kali Linux VM) to identify open ports on devices within the local network segment.\n
 
 🛠 Tools Used
 .Kali Linux (Virtual Machine)
